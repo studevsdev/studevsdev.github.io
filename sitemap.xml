@@ -85,13 +85,13 @@
   </url>
   
   <url>
-    <loc>https://studevsdev.github.io/tags/development/</loc>
+    <loc>https://studevsdev.github.io/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://studevsdev.github.io/categories/development/</loc>
+    <loc>https://studevsdev.github.io/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -121,14 +121,14 @@
   </url>
   
   <url>
-    <loc>https://studevsdev.github.io/tags/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://studevsdev.github.io/categories/hugo/</loc>
+    <lastmod>2018-03-10T17:23:09-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://studevsdev.github.io/categories/hugo/</loc>
-    <lastmod>2018-03-10T17:23:09-08:00</lastmod>
+    <loc>https://studevsdev.github.io/tags/hugo/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

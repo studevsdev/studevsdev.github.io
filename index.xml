@@ -15,20 +15,31 @@
     
     
     <item>
-      <title>Contact Us</title>
-      <link>https://studevsdev.github.io/about/contact/</link>
-      <pubDate>Sun, 08 Apr 2018 09:16:58 -0800</pubDate>
+      <title>Partners</title>
+      <link>https://studevsdev.github.io/about/partners/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
-      <guid>https://studevsdev.github.io/about/contact/</guid>
-      <description>We are a little busy exploring space right now; we&amp;rsquo;ll get back to you when we return to this solar system.</description>
+      <guid>https://studevsdev.github.io/about/partners/</guid>
+      <description>Hugo-Smorg is a theme for Hugo, the blazingly fast super flexible static site engine.
+See the project page: https://github.com/solutionroute/hugo-smorg, and</description>
     </item>
     
     <item>
-      <title>This Theme</title>
-      <link>https://studevsdev.github.io/about/hugo/</link>
+      <title>Team</title>
+      <link>https://studevsdev.github.io/about/team/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
-      <guid>https://studevsdev.github.io/about/hugo/</guid>
+      <guid>https://studevsdev.github.io/about/team/</guid>
+      <description>Hugo-Smorg is a theme for Hugo, the blazingly fast super flexible static site engine.
+See the project page: https://github.com/solutionroute/hugo-smorg, and</description>
+    </item>
+    
+    <item>
+      <title>Test case 1</title>
+      <link>https://studevsdev.github.io/about/test/test1/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
+      <guid>https://studevsdev.github.io/about/test/test1/</guid>
       <description>Hugo-Smorg is a theme for Hugo, the blazingly fast super flexible static site engine.
 See the project page: https://github.com/solutionroute/hugo-smorg, and</description>
     </item>
@@ -48,10 +59,10 @@ Inline code looks like &lt;code&gt;this-&amp;gt;var&lt;/code&gt; and &lt;code&gt
     
     <item>
       <title>Hugo Bulma Powered Blog Theme: Hugo-Smorg</title>
-      <link>https://studevsdev.github.io/project/hugo-smorg/</link>
+      <link>https://studevsdev.github.io/projects/hugo-smorg/</link>
       <pubDate>Wed, 07 Mar 2018 02:16:58 -0800</pubDate>
       <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
-      <guid>https://studevsdev.github.io/project/hugo-smorg/</guid>
+      <guid>https://studevsdev.github.io/projects/hugo-smorg/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/solutionroute/hugo-smorg&#34;&gt;Hugo-smorg&lt;/a&gt; (smorg = small org, or smorgasbord perhaps) is a responsive
 mobile-first, &lt;a href=&#34;https://bulma.io/&#34;&gt;Bulma&lt;/a&gt;-powered, reasonably minimalistic theme for the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;
 &lt;a href=&#34;https://gohugo.io/&#34;&gt;https://gohugo.io/&lt;/a&gt; static site generator.&lt;br /&gt;
@@ -60,19 +71,19 @@ mobile-first, &lt;a href=&#34;https://bulma.io/&#34;&gt;Bulma&lt;/a&gt;-powered,
     
     <item>
       <title>Blorg Bread Baker</title>
-      <link>https://studevsdev.github.io/project/blorg-bread-machine/</link>
+      <link>https://studevsdev.github.io/about/projects/blorg/</link>
       <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
       <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
-      <guid>https://studevsdev.github.io/project/blorg-bread-machine/</guid>
+      <guid>https://studevsdev.github.io/about/projects/blorg/</guid>
       <description>The hand-crafted Blorg Bread Baker&amp;trade; enhances any kitchen. Produced from 100% post-consumer recycled materials you&amp;rsquo;ll never once think&amp;hellip; wait a minute, I&amp;rsquo;m baking my bread in other people&amp;rsquo;s refuse.</description>
     </item>
     
     <item>
       <title>XYZ 1000 Replicator</title>
-      <link>https://studevsdev.github.io/project/xyz-1000/</link>
+      <link>https://studevsdev.github.io/projects/xyz-1000/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 -0800</pubDate>
       <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
-      <guid>https://studevsdev.github.io/project/xyz-1000/</guid>
+      <guid>https://studevsdev.github.io/projects/xyz-1000/</guid>
       <description>With the XYZ 1000 Replicator you&amp;rsquo;ll never again be stuck with an empty kitchen and nothing for dinner!
 Features  It&amp;rsquo;s like having your own personal chef from 1,783,482,482 (and counting) planets in your kitchen!</description>
     </item>

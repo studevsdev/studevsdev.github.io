@@ -6782,7 +6782,8 @@ a.navbar-item.is-active,
 .navbar-link:hover,
 .navbar-link.is-active {
     background-color: #fafafa;
-    color: #3273dc
+    color: #3273dc;
+
 }
 
 .navbar-item {
@@ -6831,6 +6832,7 @@ a.navbar-item.is-active,
 
 .navbar-link {
     padding-right: 2.5em
+
 }
 
 .navbar-link::after {

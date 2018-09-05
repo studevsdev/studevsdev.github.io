@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://studevsdev.github.io/about/contact/</loc>
-    <lastmod>2018-04-08T09:16:58-08:00</lastmod>
+    <loc>https://studevsdev.github.io/about/partners/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://studevsdev.github.io/about/hugo/</loc>
+    <loc>https://studevsdev.github.io/about/team/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://studevsdev.github.io/about/test/test1/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,12 +28,22 @@
   </url>
   
   <url>
-    <loc>https://studevsdev.github.io/project/hugo-smorg/</loc>
+    <loc>https://studevsdev.github.io/projects/hugo-smorg/</loc>
     <lastmod>2018-03-07T02:16:58-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://studevsdev.github.io/project/blorg-bread-machine/</loc>
+    <loc>https://studevsdev.github.io/about/projects/</loc>
+    <lastmod>2018-03-07T02:16:58-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://studevsdev.github.io/about/test/</loc>
+    <lastmod>2018-03-07T02:16:58-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://studevsdev.github.io/about/projects/blorg/</loc>
     <lastmod>2018-03-03T09:17:17-08:00</lastmod>
   </url>
   
@@ -38,7 +53,7 @@
   </url>
   
   <url>
-    <loc>https://studevsdev.github.io/project/xyz-1000/</loc>
+    <loc>https://studevsdev.github.io/projects/xyz-1000/</loc>
     <lastmod>2018-02-01T00:00:00-08:00</lastmod>
   </url>
   
@@ -85,13 +100,13 @@
   </url>
   
   <url>
-    <loc>https://studevsdev.github.io/categories/development/</loc>
+    <loc>https://studevsdev.github.io/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://studevsdev.github.io/tags/development/</loc>
+    <loc>https://studevsdev.github.io/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -121,14 +136,14 @@
   </url>
   
   <url>
-    <loc>https://studevsdev.github.io/categories/hugo/</loc>
-    <lastmod>2018-03-10T17:23:09-08:00</lastmod>
+    <loc>https://studevsdev.github.io/tags/hugo/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://studevsdev.github.io/tags/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://studevsdev.github.io/categories/hugo/</loc>
+    <lastmod>2018-03-10T17:23:09-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -147,12 +162,6 @@
   <url>
     <loc>https://studevsdev.github.io/categories/products/</loc>
     <lastmod>2018-03-03T09:17:17-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://studevsdev.github.io/project/</loc>
-    <lastmod>2018-03-07T02:16:58-08:00</lastmod>
     <priority>0</priority>
   </url>
   

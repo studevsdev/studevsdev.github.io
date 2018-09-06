@@ -2688,7 +2688,8 @@ a.box:active {
 
 .content h2 {
     font-size: 1.75em;
-    margin-bottom: .5714em
+    margin-bottom: .5714em;
+    color: #7c7c7c;
 }
 
 .content h2:not(:first-child) {
@@ -10157,8 +10158,8 @@ footer.footer-dark .footer-column .level-item .icon:hover {
 
 .button.primary-btn {
     outline: 0;
-    border-color: #4fc1ea;
-    background-color: #4fc1ea;
+    border-color: #bcd400;
+    background-color: #bcd400;
     color: #fff;
     transition: all .5s
 }
@@ -10213,8 +10214,8 @@ footer.footer-dark .footer-column .level-item .icon:hover {
 
 .button.button.accent-btn {
     outline: 0;
-    border-color: #00efb7;
-    background-color: #00efb7;
+    border-color: #bcd400;
+    background-color: #bcd400;
     color: #fff;
     transition: all .5s
 }

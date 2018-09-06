@@ -25,21 +25,20 @@ See the project page: https://github.com/solutionroute/hugo-smorg, and</descript
     </item>
     
     <item>
+      <title>Projects</title>
+      <link>https://studevsdev.github.io/about/projects/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
+      <guid>https://studevsdev.github.io/about/projects/</guid>
+      <description>Projects Unsere neusten Projekte   App builder   This is some explanatory text that is on two rows</description>
+    </item>
+    
+    <item>
       <title>Team</title>
       <link>https://studevsdev.github.io/about/team/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
       <guid>https://studevsdev.github.io/about/team/</guid>
-      <description>Hugo-Smorg is a theme for Hugo, the blazingly fast super flexible static site engine.
-See the project page: https://github.com/solutionroute/hugo-smorg, and</description>
-    </item>
-    
-    <item>
-      <title>Test case 1</title>
-      <link>https://studevsdev.github.io/about/test/test1/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
-      <guid>https://studevsdev.github.io/about/test/test1/</guid>
       <description>Hugo-Smorg is a theme for Hugo, the blazingly fast super flexible static site engine.
 See the project page: https://github.com/solutionroute/hugo-smorg, and</description>
     </item>

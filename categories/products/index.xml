@@ -15,12 +15,48 @@
     
     
     <item>
-      <title>Blorg Bread Baker</title>
-      <link>https://studevsdev.github.io/about/projects/blorg/</link>
+      <title>Award</title>
+      <link>https://studevsdev.github.io/for-students/award/</link>
       <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
       <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
-      <guid>https://studevsdev.github.io/about/projects/blorg/</guid>
+      <guid>https://studevsdev.github.io/for-students/award/</guid>
+      <description>Lorem ipsum dolor sit amet, ne case aliquip vituperata his. Choro epicuri albucius ne qui. Sea ei hinc decore, voluptua theophrastus ei eos.</description>
+    </item>
+    
+    <item>
+      <title>Blorg Bread Baker</title>
+      <link>https://studevsdev.github.io/projects/blorg-bread-machine/</link>
+      <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
+      <guid>https://studevsdev.github.io/projects/blorg-bread-machine/</guid>
       <description>The hand-crafted Blorg Bread Baker&amp;trade; enhances any kitchen. Produced from 100% post-consumer recycled materials you&amp;rsquo;ll never once think&amp;hellip; wait a minute, I&amp;rsquo;m baking my bread in other people&amp;rsquo;s refuse.</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://studevsdev.github.io/for-students/events/</link>
+      <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
+      <guid>https://studevsdev.github.io/for-students/events/</guid>
+      <description>Lorem ipsum dolor sit amet, ne case aliquip vituperata his. Choro epicuri albucius ne qui. Sea ei hinc decore, voluptua theophrastus ei eos.</description>
+    </item>
+    
+    <item>
+      <title>Mentoring</title>
+      <link>https://studevsdev.github.io/for-students/mentoring/</link>
+      <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
+      <guid>https://studevsdev.github.io/for-students/mentoring/</guid>
+      <description>Lorem ipsum dolor sit amet, ne case aliquip vituperata his. Choro epicuri albucius ne qui. Sea ei hinc decore, voluptua theophrastus ei eos.</description>
+    </item>
+    
+    <item>
+      <title>Positions</title>
+      <link>https://studevsdev.github.io/for-students/positions/</link>
+      <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
+      <guid>https://studevsdev.github.io/for-students/positions/</guid>
+      <description>Lorem ipsum dolor sit amet, ne case aliquip vituperata his. Choro epicuri albucius ne qui. Sea ei hinc decore, voluptua theophrastus ei eos.</description>
     </item>
     
   </channel>

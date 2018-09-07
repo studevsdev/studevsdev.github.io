@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://studevsdev.github.io/about/partners/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://studevsdev.github.io/about/projects/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://studevsdev.github.io/about/team/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://studevsdev.github.io/post/syntax-highlighting/</loc>
     <lastmod>2018-03-10T17:23:09-08:00</lastmod>
   </url>
@@ -28,18 +13,53 @@
   </url>
   
   <url>
+    <loc>https://studevsdev.github.io/for-students/</loc>
+    <lastmod>2018-03-07T02:16:58-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://studevsdev.github.io/projects/hugo-smorg/</loc>
     <lastmod>2018-03-07T02:16:58-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://studevsdev.github.io/about/projects/</loc>
+    <loc>https://studevsdev.github.io/projects/</loc>
     <lastmod>2018-03-07T02:16:58-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://studevsdev.github.io/about/projects/blorg/</loc>
+    <loc>https://studevsdev.github.io/for-students/award/</loc>
     <lastmod>2018-03-03T09:17:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://studevsdev.github.io/projects/blorg-bread-machine/</loc>
+    <lastmod>2018-03-03T09:17:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://studevsdev.github.io/for-students/events/</loc>
+    <lastmod>2018-03-03T09:17:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://studevsdev.github.io/for-students/mentoring/</loc>
+    <lastmod>2018-03-03T09:17:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://studevsdev.github.io/for-students/positions/</loc>
+    <lastmod>2018-03-03T09:17:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://studevsdev.github.io/about/partners/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://studevsdev.github.io/about/team/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

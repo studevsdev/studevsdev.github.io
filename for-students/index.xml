@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>For Students on Hugo-Smorg Theme</title>
+    <link>https://studevsdev.github.io/for-students/</link>
+    <description>Recent content in For Students on Hugo-Smorg Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</managingEditor>
+    <webMaster>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</webMaster>
+    <copyright>&amp;copy; Your Name or Organization Name</copyright>
+    <lastBuildDate>Wed, 07 Mar 2018 02:16:58 -0800</lastBuildDate>
+    
+	<atom:link href="https://studevsdev.github.io/for-students/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Award</title>
+      <link>https://studevsdev.github.io/for-students/award/</link>
+      <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
+      <guid>https://studevsdev.github.io/for-students/award/</guid>
+      <description>Lorem ipsum dolor sit amet, ne case aliquip vituperata his. Choro epicuri albucius ne qui. Sea ei hinc decore, voluptua theophrastus ei eos.</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://studevsdev.github.io/for-students/events/</link>
+      <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
+      <guid>https://studevsdev.github.io/for-students/events/</guid>
+      <description>Lorem ipsum dolor sit amet, ne case aliquip vituperata his. Choro epicuri albucius ne qui. Sea ei hinc decore, voluptua theophrastus ei eos.</description>
+    </item>
+    
+    <item>
+      <title>Mentoring</title>
+      <link>https://studevsdev.github.io/for-students/mentoring/</link>
+      <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
+      <guid>https://studevsdev.github.io/for-students/mentoring/</guid>
+      <description>Lorem ipsum dolor sit amet, ne case aliquip vituperata his. Choro epicuri albucius ne qui. Sea ei hinc decore, voluptua theophrastus ei eos.</description>
+    </item>
+    
+    <item>
+      <title>Positions</title>
+      <link>https://studevsdev.github.io/for-students/positions/</link>
+      <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
+      <guid>https://studevsdev.github.io/for-students/positions/</guid>
+      <description>Lorem ipsum dolor sit amet, ne case aliquip vituperata his. Choro epicuri albucius ne qui. Sea ei hinc decore, voluptua theophrastus ei eos.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -15,35 +15,6 @@
     
     
     <item>
-      <title>Partners</title>
-      <link>https://studevsdev.github.io/about/partners/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
-      <guid>https://studevsdev.github.io/about/partners/</guid>
-      <description>Hugo-Smorg is a theme for Hugo, the blazingly fast super flexible static site engine.
-See the project page: https://github.com/solutionroute/hugo-smorg, and</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://studevsdev.github.io/about/projects/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
-      <guid>https://studevsdev.github.io/about/projects/</guid>
-      <description>Projects Unsere neusten Projekte   App builder   This is some explanatory text that is on two rows</description>
-    </item>
-    
-    <item>
-      <title>Team</title>
-      <link>https://studevsdev.github.io/about/team/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
-      <guid>https://studevsdev.github.io/about/team/</guid>
-      <description>Hugo-Smorg is a theme for Hugo, the blazingly fast super flexible static site engine.
-See the project page: https://github.com/solutionroute/hugo-smorg, and</description>
-    </item>
-    
-    <item>
       <title>Syntax Highlighting</title>
       <link>https://studevsdev.github.io/post/syntax-highlighting/</link>
       <pubDate>Sat, 10 Mar 2018 17:23:09 -0800</pubDate>
@@ -69,12 +40,66 @@ mobile-first, &lt;a href=&#34;https://bulma.io/&#34;&gt;Bulma&lt;/a&gt;-powered,
     </item>
     
     <item>
-      <title>Blorg Bread Baker</title>
-      <link>https://studevsdev.github.io/about/projects/blorg/</link>
+      <title>Award</title>
+      <link>https://studevsdev.github.io/for-students/award/</link>
       <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
       <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
-      <guid>https://studevsdev.github.io/about/projects/blorg/</guid>
+      <guid>https://studevsdev.github.io/for-students/award/</guid>
+      <description>Lorem ipsum dolor sit amet, ne case aliquip vituperata his. Choro epicuri albucius ne qui. Sea ei hinc decore, voluptua theophrastus ei eos.</description>
+    </item>
+    
+    <item>
+      <title>Blorg Bread Baker</title>
+      <link>https://studevsdev.github.io/projects/blorg-bread-machine/</link>
+      <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
+      <guid>https://studevsdev.github.io/projects/blorg-bread-machine/</guid>
       <description>The hand-crafted Blorg Bread Baker&amp;trade; enhances any kitchen. Produced from 100% post-consumer recycled materials you&amp;rsquo;ll never once think&amp;hellip; wait a minute, I&amp;rsquo;m baking my bread in other people&amp;rsquo;s refuse.</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://studevsdev.github.io/for-students/events/</link>
+      <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
+      <guid>https://studevsdev.github.io/for-students/events/</guid>
+      <description>Lorem ipsum dolor sit amet, ne case aliquip vituperata his. Choro epicuri albucius ne qui. Sea ei hinc decore, voluptua theophrastus ei eos.</description>
+    </item>
+    
+    <item>
+      <title>Mentoring</title>
+      <link>https://studevsdev.github.io/for-students/mentoring/</link>
+      <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
+      <guid>https://studevsdev.github.io/for-students/mentoring/</guid>
+      <description>Lorem ipsum dolor sit amet, ne case aliquip vituperata his. Choro epicuri albucius ne qui. Sea ei hinc decore, voluptua theophrastus ei eos.</description>
+    </item>
+    
+    <item>
+      <title>Positions</title>
+      <link>https://studevsdev.github.io/for-students/positions/</link>
+      <pubDate>Sat, 03 Mar 2018 09:17:17 -0800</pubDate>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
+      <guid>https://studevsdev.github.io/for-students/positions/</guid>
+      <description>Lorem ipsum dolor sit amet, ne case aliquip vituperata his. Choro epicuri albucius ne qui. Sea ei hinc decore, voluptua theophrastus ei eos.</description>
+    </item>
+    
+    <item>
+      <title>Partners</title>
+      <link>https://studevsdev.github.io/about/partners/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
+      <guid>https://studevsdev.github.io/about/partners/</guid>
+      <description>Lorem ipsum dolor sit amet, ne case aliquip vituperata his. Choro epicuri albucius ne qui. Sea ei hinc decore, voluptua theophrastus ei eos.</description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>https://studevsdev.github.io/about/team/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <author>thisemaildoesnotexist@www.example.com (Your Name or your organization&#39;s name)</author>
+      <guid>https://studevsdev.github.io/about/team/</guid>
+      <description>Lorem ipsum dolor sit amet, ne case aliquip vituperata his. Choro epicuri albucius ne qui. Sea ei hinc decore, voluptua theophrastus ei eos.</description>
     </item>
     
     <item>

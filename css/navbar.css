@@ -9740,7 +9740,11 @@ print {
 }
 
 .section {
-    padding: 7rem 1.5rem
+    padding: 10rem 1.5rem
+}
+
+.section.is-fullheight {
+    min-height: 60vh;
 }
 
 @media screen and (min-width:1088px) {

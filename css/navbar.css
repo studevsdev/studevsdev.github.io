@@ -11060,3 +11060,15 @@ body #backtotop a {
     height: 100%;
     border: 0;
 }
+
+/* end iframe */
+
+footer.footer-dark .footer-column a.link {
+    color: #98a9c3;
+    font-weight: 400;
+    transition: all .5s;
+}
+
+footer.footer-dark .footer-column a.link:hover {
+    color: #fcfcfc;
+}

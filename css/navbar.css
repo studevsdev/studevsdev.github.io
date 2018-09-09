@@ -10019,7 +10019,7 @@ div.nav-item.is-drop .dropContain .dropOut ul {
 .divider {
     height: 3px;
     border-radius: 50px;
-    background: #f39200;
+    background: #25aae1;
     width: 60px
 }
 
@@ -10109,6 +10109,9 @@ footer.footer-dark .footer-column ul.link-list a {
     transition: all .5s
 }
 
+p.is-muted {
+  color: #98a9c3;
+}
 
 footer.footer-dark .footer-column ul.link-list :hover {
     color: #fcfcfc
@@ -11072,3 +11075,12 @@ footer.footer-dark .footer-column a.link {
 footer.footer-dark .footer-column a.link:hover {
     color: #fcfcfc;
 }
+
+/* equal height cards */
+/*.card-content {
+    display:flex;
+    flex-direction: column;
+}
+.card-footer {
+    margin-top: auto;
+}*/
